@@ -1,2 +1,2 @@
 # cpuvolt
-Android kernel voltage control.
+Android kernel cpu core voltage control.
